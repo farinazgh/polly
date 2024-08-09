@@ -14,7 +14,7 @@ public class TextToSpeech {
 
     public static void main(String args[]) {
         int counter = 0;
-        List<String> chunks = TextSplitter.textFileToChunks("");
+        List<String> chunks = TextSplitter.textFileToChunks("C:\\Users\\farin\\IdeaProjects\\polly\\src\\main\\resources\\micro.txt");
         PollyClient polly = PollyClient.builder().region(Region.EU_WEST_1).build();
 
         for (String chuck : chunks) {
@@ -27,7 +27,7 @@ public class TextToSpeech {
 
     public static void talkPolly(PollyClient polly, String SAMPLE, String OUTPUT_FILE) {
         try {
-            DescribeVoicesRequest describeVoiceRequest = DescribeVoicesRequest.builder().engine("standard").build();
+            DescribeVoicesRequest describeVoiceRequest = DescribeVoicesRequest.builder().engine("neural").build();
 
             DescribeVoicesResponse describeVoicesResult = polly.describeVoices(describeVoiceRequest);
             Voice voice = describeVoicesResult
