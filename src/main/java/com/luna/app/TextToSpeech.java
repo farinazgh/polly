@@ -27,7 +27,11 @@ public class TextToSpeech {
 
     public static void talkPolly(PollyClient polly, String SAMPLE, String OUTPUT_FILE) {
         try {
-            DescribeVoicesRequest describeVoiceRequest = DescribeVoicesRequest.builder().engine("neural").build();
+            DescribeVoicesRequest describeVoiceRequest =
+                    DescribeVoicesRequest
+                            .builder()
+                            .engine("neural")
+                            .build();
 
             DescribeVoicesResponse describeVoicesResult = polly.describeVoices(describeVoiceRequest);
             Voice voice = describeVoicesResult
