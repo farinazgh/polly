@@ -33,7 +33,7 @@ public class TextToSpeech {
             Voice voice = describeVoicesResult
                     .voices()
                     .stream()
-                    .filter(v -> v.name().equals("Kendra"))
+                    .filter(v -> v.name().equals("Joanna"))
                     .findFirst()
                     .orElseThrow(() -> new RuntimeException("Voice not found"));
             InputStream stream = synthesize(polly, SAMPLE, voice, OutputFormat.MP3);
