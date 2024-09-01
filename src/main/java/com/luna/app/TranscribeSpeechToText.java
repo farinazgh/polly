@@ -13,8 +13,8 @@ public class TranscribeSpeechToText {
 
     public static void main(String[] args) {
 
-        String jobName = "luna-transcription-job";
-        String mediaUri = "https://luna-synthia.s3.eu-west-1.amazonaws.com/French.mp3";
+        String jobName = "cynthia-transcription-job";
+        String mediaUri = "https://luna-gw.s3.eu-west-1.amazonaws.com/French.mp3";
         String languageCode = "fr-FR"; // French
 
         Region region = Region.EU_WEST_1;

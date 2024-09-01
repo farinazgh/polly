@@ -1,0 +1,296 @@
+Oh no, no no it's no, it's for me a bit We missed a bit. Yeah why is there this color? Well yeah, because over there, I put more emphasis on an effort because we have a long way to go. It's okay, it goes with exploitation. Well listen, otherwise we can say that we give each other two points again, right? Otherwise we give each other two points each and know if you want to put the what? What I have is. I suffered so much on the game that for me it is the priority. You put five points, I put two out of five is it no but I'm not kidding myself in fact yes no but it's not easy to use and maintain because otherwise Ah but you have to, you have to and it's also to give yourself resources at the company level because you're in business mode because you're in a mode of lowering your doors too, that's right Yes, yes, in fact, it's like all solutions, it's like the database. Do you have database administrators who manage databases. They are specialists and their job. Now it's the same, we each have two more points. Yeah ok so I'm going to yours there if I understand correctly yes but that yes that's all that relates to yes bah if we don't know what's going on and that two hens gives good news. But until until you miss it, I have no news today I disagree. And if some news no news your god like with the kids when you hear them more you have to worry. There it is, it's the same. Uh and you you did you uh did you vote too? OK, it shatters who stays first knowing that there are things that are going to be related anyway whether it's finally that support um supervision uh deployment that'll see. Uh so so we were talking about easy maintenance that is quick to implement so that yes well it is to be able to uh be able to use it for the platform in the in the games so maybe it's worth it to detail what we put behind Is it, what are the deadlines for acquisition and contracting is it rather the rise in competence Is it rather the rise in competence Uh is there can be ease of dice that's that uh quick, quick to implement In the idea, we have on time that we have a doctor um bah it's for the installation etc. Me it's um it Is a fruit, it's important, I don't know if it's the discrimination thing no no for example, it's not very serious in fact, it's less serious than the part that's less urgent as I understand it. Yes that's right, we already have a tool Uh we're not going to start missing the ball either for that's good we would be anyway finally I think we're on the masine part because we're on the masine part because it's the game with five. I'm afraid this piece will choose but we didn't we didn't commit to a date so um thanks, I don't know if that's the most important thing after there's going to be more and more people who are going to get there. I finally saw you see, there is the subject with Elos Metro Everest, see what we missed and omega sorry. So they're going to use what we already have, but they already have. I'm not saying to myself today, I don't have a at least in my vision, which requires, of, of, to say We have a new tool
+For the moment, I am not saying that it is not a tool, but compared to that, I have the impression that we are a bit stupid. \
+
+Ok, I don't want it to be on the critical path of applications, that's actually it. 
+
+And today we have quite a few apps that need to do some work at the moment, right? 
+
+Yeah but you see the idea is that finally maybe with your finally you have your platform, you say to yourself well, I can have a service, you say 
+
+Bah I subscribe to such data and you see that it really is you come in catalog mode, based on the catalog of, it's the platform the data platform. 
+
+
+They are lost in space. 
+
+Today, you have news, you know where it is. They are not even able to release an anthology for us. 
+
+Michel, it is at zero I saw it yesterday, it went by in a hurry, but they are not even able to provide us with an anthology to be able to for our APIs. 
+
+
+If we start saying that we are waiting for them, No, I am not waiting for them. 
+
+We have to move forward without them, even if it was originally for them. 
+
+Yeah, but even if you put that aside, you can imagine that I'm doing an omega. 
+
+Deal can post on an Opie is already there. 
+
+That's already what we're doing. 
+
+We publish the customers that are changed every day at one o'clock and one o'clock in the morning so that people can come and update the customers. 
+
+Uh, with here they are, we're already doing it. In fact, it's not at last, we have. 
+
+For the moment, I have not yet seen applications that came out of us, applications that really came out of Lord. 
+
+I'm not saying you shouldn't - well, you can't change. 
+
+But in real life today, we don't have an application that requires a Kafka or in fact we have a tool that meets today's needs. 
+
+Tomorrow, if we need to have other things or have a simpler tool. 
+
+In fact, we can't finally take the a three times longer to deploy. 
+
+It's okay, it's very easy to use for less use and we don't ask them. 
+
+They create them and the topics are created on the fly, also in real life. 
+
+It's simple, the real problem we have today on active, that's why I have only one governance over an effort, is that we don't know who is in charge of it. 
+
+Me, today, it's Christophe, when he has time that if it crashes, then we're really in trouble, because in fact, we don't have redundancy, we don't have any of that. 
+
+And today, that's the real problem we have today, that's that and that's that. 
+
+And if you choose another tool, that's where you really need to put the input focus, because that's where you're going to have problems. 
+
+And on all the tools that we studied at the time, we put in place because it was true. 
+
+Not that with all the tools as they were not tools that came from the manufacturer, each time, they told us Well it was you who wanted to lose your mind. 
+
+We don't have access to the VMs, we don't have access to the operating system, we can't reboot, we can't do what we want, but it's still crazy.
+
+So today is where you have to be very much. 
+
+Finally, you really have to make an effort, it's to facilitate the deployment of the product and it's easy to update,
+
+easy version upgrade so that it can be taken into account quickly. Indeed, if we go on an SAS, we will have fewer problems because we don't manage the SAS Ben.
+
+Now, there are other issues that will be managed with the SAS.
+
+It's um, here, there's the support part, etc. Well, anyway, it's the same problem, it's governance, reinforcement and governance.
+
+So that's what I want. I'll tell myself later, there are the parts, pricing, etc.
+
+Support is also a real problem. Because today, regardless of the solution, if you take the four cases, you take one, you take any of the uh consultants who are experts.
+
+Don't you find it that easy? This production is recent but that's not even a question.
+
+It's a question that most of the time people do that in their corner.
+
+Oh no no I don't know This concept of expertise isn't just about how to properly pursue the platform as well?
+
+It's also after the for the teams of for the presentation that also on one of the problems we had it was um for example on the topics we did not indicate
+
+that we had to put as the messages persisted we did not say we must put a lifetime on a message so we end up with messages that are um a a in the K D B and that's crazy because in terms of maintenance well they are not deleted Yes and so there is Uh there is the support it's not
+ only installation support, it's also support for developers and the problem they had on Kafka that's it huh?
+
+ It's not the Kafka installation, it's the problem that the developers didn't know how to develop on Kafka and they did shit and they found that it didn't work.
+
+ So actually there it is, it's for me the focus it's really an effort.
+
+ It's how do you do how do you work with the lost.
+
+ That's why I scored a lot of points. And well, if you really want to be efficient and not have problems.
+
+ And the goal is still to have a minimum of work on our side, right?
+
+ It's uh quick to put on because I say quick to implement respect for it's not the most urgent.
+
+ In fact, the most urgent thing is choosing the tool and finding the right support.
+
+ You want, you want to secure quickly securing the governance we have, that's more like that.
+
+ The that's the critical aspect, that's where I had the most pain.
+
+ That's what we're talking about because on , we still have a lot of that, we can that, we can put ourselves.
+
+ I don't know if it's going to fit into the criteria for choosing tools, because for me, it's more like one of the things that's going to be more
+
+ in the critical path in fact, of the project on the roadmap.
+
+ Yeah, it's on the road map. Yeah  now that's it, I'm finally telling you,
+
+ I'm not sure about setting it up, I'm telling you the problems we had, it was essentially this problem.
+
+ Once the platform has stabilized in terms of here it is, it works in its own corner. No but I had a a platform called Genesis.
+
+ I was all alone, it's all waiters behind. When it fart, there was no one left.
+
+ Well, no matter how much you take the best product in the world, if you don't have anyone on it, it becomes a disaster.
+
+ So you take the small that and um you have fewer problems so, the quick thing to implement is also to have twenty-five subjects.
+
+ So I'm not sure here. Well, for me it's less interesting. That one is finally that on the post-project criteria anyway,
+
+ it will be Uh we will see it with it will be well secured Uh finally crack the governance point what.
+
+ In a way a bit like we have and didn't do for the um and Guillaume, reproach us enough.
+
+ He is right and he will tell us ah well you decided and that we were not there so he is not necessarily right.
+
+ They were invited and they did not come but so there is easy to maintain which is very important, easy to maintain, easy to maintain and easy to update.
+
+ Assembling a version yeah, we have that means that yes, it does not require stopping the intervention service.
+
+ In any case if you have to stop the service, it must be the minimum today we are on a version who is who we have not moved for two years?
+
+ No no and before it was much more because well it requires warning everyone, we will stop everything and if we connect to our consumers
+
+ it's the effort in terms of T M U. So no no no no in fact it's all automatic.
+
+ On that no? I'm really really talking to you about the platform itself it's the effort of t M u there in fact easy to maintain and
+
+ to have updates quickly we can merge the two  yes that's what the base is.
+
+ We don't have a lot of teams in fact, that's why we're going with it.
+
+ They are busy doing lots of other things.
+
+ Yes yes, that's when I hear that.
+
+ What I remember is it would be nice to have a service maybe.
+
+ Yes well then I have to go back. In any case, we should retest because we still have a lot of tools that fall out.
+
+ So you can't have fun saying you're completely changing.
+
+ You should test something that is compatible with what we have on Azur you have PS S S you have S that allows you to do J M S GM s GM s
+
+ it's a little bit different. This may be the compatibility with our ecosystems category and it can be a criterion considered if we can go back to work again.
+
+
+ The advantage is that you have the multi-zone which is directly integrated, right?
+
+ Of course, after paying attention to what, depending on the products, you either have managed services with good times out of five in the SA at the same time,
+
+
+ but you have to check with the service.
+
+ In fact, it is a solution that is at the top of their basic solution.
+
+ In fact, all of their tools are on the same solution.
+
+
+ They simply made implementations that made it possible to recover AC.
+
+ Finally some J M S. The only thing that bothered me was that it was expensive.
+
+ I thought it was expensive because it was over.
+
+ It's not it's not a tablet on so I no no but that's why I think so.
+
+ Each consumption on the top was every time you connect to the top,
+
+ to the the thing it consumed a Yeah so um a he will regularly check and every time it was an Ah yes at least when I tested two years ago,
+
+ so in fact if you didn't take the solution more stupid well you found yourself dying the connection to Me what I was seeing,
+
+ it went up vachy Quickly, but it's still weird.
+
+ I sent a message and it's still going up.
+
+ Well yes, because the thing is checked so after they may have changed the face of Sur Azur,
+
+ but you have to keep that in mind sometimes there are small subtleties,
+
+ you really have to test.
+
+ Yeah yeah maybe I quickly jot down that one the billing unit It's true that it's not the trap there.
+
+ That's it, yeah ok yeah after that maybe it has changed since then huh,
+
+ but at the time I was a little bit I said yes you surprise me VM especially for a type of finally this type of service it's still a function.
+
+ Uh they're on the call right?
+
+ It can go very very quickly Yes if you have bread or things like that,
+
+ you don't do anything that's it and you have you have you pay the double f that flows with you pay a little bit at the level of you v n the traffic that goes
+
+ by in addition OK I didn't put in OK I didn't put in
+
+ but I'm still a little bit do we have anything else if we are strong because we have a quarter of an hour left.
+
+ Uh so right now Can we maybe just quickly detail what we put behind it, even if it's not if it's just a small list
+
+ that's not easy to maintain and it's uh an understandable configuration but um a configuration finally a configuration to maintain in fact.
+
+
+ Well yes, because it's confusing in fact, it's because the to maintain is on the to be configured The aspect is more of a version,
+
+ it's a part of it today for example  when you want to add security to y, you have to go to the config file and stop starting the Q Well
+
+that I'm sorry in terms of fa it's not easy to maintain, it's only the ones that are done automatically. We have set one of the rules to say everything that happens in score points.
+
+
+Come on, that's what security applies but you can't have a security at least in the configuration we did today.
+who finally who can be automatic or with an active director so it's a bit boring
+
+Yeah there's an aspect finally when we did we saw the fast surf and basically they explained that the project teams themselves could create and push the configuration
+that was inherent to them and therefore create configuration that was inherent to them and therefore create themselves and this so is actually it in a mode that
+
+we want to have, that is to say.
+
+Give autonomy to the Dev teams with one with a great thing yes but we'll have to see with our friends from the prod,
+
+you see between the old and the new version of Tvq that we installed last year,
+
+that Christophe installed, He installed, He has removed the administration rights from me, he has withdrawn my administration rights on me,
+
+so I can't do anything anymore because they decided that I no longer had dr.
+Must have access to it if I am the one who takes care of it the most but I don't have access to it so if we should have a position
+
+finally me I would go for more autonomy for the we can even talk yesterday,
+
+
+we don't care about the others. Yeah we saw the Microsoft plantation, the the platform, a platform that they basically set up at home,
+
+the the openly said Bah no but the devs finally we don't need them anymore.
+
+We are autonomous, we are into everything and our best friend is he is a co-pilot and in fact they have created cats,
+
+co-pilot cats that um who automatically deploy their Zapp to them but they are crazy finally the s are crazy autonomous now no longer depends on a team
+
+hops behind to ask one who can present this to Guillaume.
+
+And when I saw that there was a game really Voilà Pas de Lady by OK one minute very easy to maintain,
+
+there is finally there is also the management of rights and users that today it's not great, that is to say you can spend a bit of time on it
+
+
+ I spend almost zero as much because we have it as it is and we haven't slept for five six seven years ok
+
+ and if for example I need a new user yes I ask to Christophe and when he has time he does it and you don't know do you know how long it must have taken?
+
+ It doesn't take him very long but Christophe he has three hundred applications to manage and um he is available when he is
+
+ available maybe we can say you see on finally after maybe it will be for the after but um about the users to do it in mode or not to speak to the users
+
+ who have access to the I am not talking to you about the users who have access to the administration?
+
+
+ Yeah it's not careful, no no but we could imagine a system like that in fact,
+
+ because in fact normally you do that in other boxes, you have to do your things and after all this managing that by activity,
+
+ I totally agree today that's not what we have and so um, easy to maintain,
+
+ that's also what we're trying to do another category.
+
+ Well I don't know if yeah about it's related anyway, huh?
+
+ So let's go my g the first it's going to be this one Well that today we're doing it with it.
+
+ In fact today the agent comes all who are and we find them in Little Bana so then in the format there you go, it's a bit messy but at least they exist,
+
+ we had put a perpetuity, it was therefore and ability Périté I realized it's weird to have put it there.
+
+ Oh I don't know, I don't know. Or maybe we wanted to put that on with persistence, but their kid can fire him if he doesn't talk to anyone.
+
+ Yeah. What do we put behind this especially monitoring move forward can we maybe we really specify the the the things for me it's essential in fact it's mostly
+
+ that intimate. Well that's the turn the base alerted you when you were Mr.
+
+ But we don't do that traceability so also traceability will be for that reason it goes with the the, the detection moreover not necessarily of breakdowns but with the point of we do not have a debrief but I admit yeah but they are on their way finally on their job. It's normal for them to ask that because it's not the other way around. Yeah, when you see what he's asking us for in projects, it's traceability, we're talking about exchanges and therefore Ability Yeah, that's it yes, that's that Oh you're telling me it's not the, it's really the audit. Yeah yeah, so that the product allows you to do that the two well that's the, we can do it in fact Yeah, that's the what we have on Uh they're already putting something on but we'll go further. And so this, if we, if the product does not know how to do it, in fact, we say to ourselves, it's not worth it, I think with, um, no, no, not in bold, yeah, I'll have to double with because on this point does, for example, if we are, do we typically set up to observe him from start to finish, could that be enough at each point or have a global view Well, finally, it really depends, it depends Not at all I sometimes find ability on messages it's a bit complicated if it's all the time anyway if at the high school level there for me Yes no no but can you tell from my message someone has read my message but you don't know who? No we did the message but it's complicated on the other hand yeah yeah yeah well even for ability if you do ability at the application level then you use some when you leave in J M S it becomes very complicated in fact to manage because you have to be able to put the transactions into it, it's because the goal is to be able to follow up. In fact the a you start on synchronous and now no, it can quickly be complicated. OK um persistence is site management of data life. So when I was thinking about cold data earlier, just excuse me for the previous project. After that can be a solution developed in-house, that is to say by default we put dice and then with an application that comes Uh who does the who does the TAP? So it's true that it's better if it's provided for by the platform, but there are always solutions to meet needs. If that's not why, I'm not sure it's completely uh boring on the audit um on the audit Well it depends because if you put that together with security at the same time and the pipe should see nothing of what's going around in it, in fact the audit becomes complicated quite quickly to know who is talking to whom. And so this, this, it goes back to the borders as a responsibility a little bit so after that you have the ones you can set up on a small one but in fact it's every time there is an event that happens on YouTube or a you will have one that will launch me into the that is going well Ah so at the end of the day it's possible to do something good Ah so at the end of the day it's possible to subscribe to the and do um well to do things but it's not Magic in fact it's all the same you're going to have to develop something. Make such a has been um accessed by machine or such message has been read by such In fact that you will know it is the message has been read by such user finally you will not know what was in the message we will just say thingy has read tel mes has read a message it will end there it will end there it will end there it will in fact end there it is in fact it is these mechanisms on which one is based, for example, to act stupid to connect two brokers together In fact it is So that he knows that a message has arrived and therefore he is able to transfer between It is a mechanism that exists but we have to see what we do Want to have behind? OK but well there is, there is a fairly long subject um so life cycle yeah well everything that actually has to do with persistence is already persistence is already something, it's a prerequisite, but it's something we use. Well if there is an internship, if you don't know how to do that, you have to If it's an instance, you don't have to make messages. Well that depends. It depends on the apps, there are messages, there are apps where the message is informed what. Yes, yes, no but that's what we have to do. Anyway, there are applications that will run on There are some who expect them to be on Helios. Uh, we have to have it if the moment falls, when we launch it, we have to represent the messages that are a bit and therefore everything that is actually life cycle. And that's actually what it is today, if you follow um J M S. The GM standard is basically the tool, whatever the tool. If we do GM s on four K, I don't know a small four K if there is one, it has seven days by default, you can extend it as long as you want but while you default, it's infinite. So the persistence of the topics can be bypassed. Uh if we if we create files in uh for example. In fact you have your message coming in, you are actually connecting on you are creating a file in fact you can create your passet like that. Roughly speaking, yes
+ We have one that we have isolated, but he does not, we have this means of circumvention. That is to say that you form your daughter in a file. Yeah that's right at last you yeah exactly okay the hassle. Except that you still have to go and read it before the message is skipped to write it to the file. If you're dealing with pretty much the exceptional what In fashion, the thing is destroyed Is it important or not, that I go look for old messages, it's really there's something you need to know. Yeah, that's what we they taught so at their expense and I told them. I told them why it is that the CA, whatever it is, can really send a message. We are never there I told them you will have to plan a rejection mechanism on your app, if only because if it is not available finally if your tone your app is not available at the time when um um you try to send a message if it is not available your message what do you do? Yes yes no but I'm going crazy so you still have to plan for the fact that your tone, your application is not available. You have to plan all the games, all the updates in fact already on the application side and that's what they implemented after two years it's like the P eh yes available what do you do? Well, I'm very much the user saying it doesn't work, but that's what he didn't expect Ah, so basically, they finally implemented a system on the portal that allows them to replay the sending of the slip because it could crash, even if only yesterday we had the problem yesterday we had the problem it was not management that crashed it was not management that crashed it was on the D M S side on the D M S side by side D M S Pat was in bulk all the messages, they left in error. There were no slips that were saved. The transactions were all planted for the customers. And now it's not the fault it wasn't even Act's fault. It was the fault of one of the elements that did not work. So now they said to themselves Good, no problem, here are all the transactions that have been planted. They started and then they played the transactions as if they were the business. I have the message at the bottom. Well anyway, you have no choice. And that's what I asked the developers, is that when the first thing they do, they save the message in their database so that if anything, even if it's in their database that makes the contact for the transaction. But yeah, that's why I asked them to do it. And then after they do the then after they launch their process asynchronously. But at least you're sure you're saving because your app can crash the message, it's read. And then you know everything that's not happening, but that's good development practices. It's not who will no but on the other hand thank you who are going to stay you won't be able to play you don't need to play P but then do you need someone for a you don't say that this that this meets the question of persistence even though it will give you certain guarantees of tonicity or not? That is to say, when do you receive your discharge typically in the fort on the there your will arrive, it will take place before you potentially inc As your persistence you cannot guarantee it. You can guarantee zero RP on something like Kafka. On the other hand he will write first and finally he will write in a log. Well concretely um before sending it, it is only from that moment that he will send you an asset. After possibly we will send replicas, it still offers you certain guarantees and depending on what the client opposite asks for, that is to say really asks for its operation. Well so it can rule out some people. Yeah, we had it we configured it, that's why we took CAF four on top and each message that came up in the topic where we had it, a native S three connector and in fact we duplicated the message but on coffee Yeah on the coffee Yeah on the anyway he wrote anyway Yeah yeah but it was on Kafka but I think that was what allowed you. It was not Kafka who agreed with you, but he still had his own storage on the walls or on the vocation, all the parts written local. At least what you may not see sir. Oh yeah it's yes yes I think he must have stung the message. I don't know which one was good in anyway. We look big at ourselves if we look big at the capacity of what we said we knew with we have another waiting for us. Maybe we should see about that but I don't know if we need to start the work, but one way to be able to move a little quickly is to know effectively to be sure that I actually have all the good cries that are important to me and use them. I imagine what you have in mind to have the right to make the choice well yes that's it Well then that's what we're doing there So, the first floor will really be the filter, the filter of the conditions sine qua non, That's the one we're trying to identify. So it's typically we can actually from the edge of even have a small list made, possibly ask questions or if you want we can maybe share doing it like that. But if not even with comments directly on the edge trying to cover, to cover all the points and at that moment on the next phase, what we could do is to act if there is not too much if there is not too much debate. And then if there are any questions at this time, OK goodbye to discuss them in science so in case of the next session is maybe we hold on the we put our comments Yeah that's that and and the ok um
+
